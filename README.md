@@ -1,4 +1,4 @@
-# Azure Data Engineering Project: Olympic Data Pipeline
+# Azure Data Engineering And Analysis Project: Olympic Data Pipeline And Dashboard
 
 ## Project Overview
 This project demonstrates an end-to-end data engineering pipeline on Azure Cloud, extracting Olympic data from a Kaggle dataset, transforming it, and analyzing it to gain insights. The solution uses various Azure services to build a complete data workflow.
@@ -71,25 +71,26 @@ The dashboard is structured into three main tabs, with snapshots provided for ea
   - 11,062 athletes
   - 381 coaches
 - Medal totals: 340 gold, 338 silver, and 402 bronze medals awarded.
+- Popular Sports Bubble Chart: Highlights popular disciplines such as Athletics, Football, and Judo.
+
 
 **Snapshot:**  
-<img src="./ss/Summary_1.png" alt="Summary Tab" width="60%">
+<img src="./ss/summary.png" alt="Summary Tab" width="60%">
 
 #### ➔ Participating Countries Tab
 - **World Map**: Displays country-wise event participation, sized by event volume and color-coded by region.
 - **Top 10 Participants Treemap**: Highlights countries with the highest number of events (e.g., Japan, United States, Italy).
 
 **Snapshot:**  
-<img src="./ss/Participating_Country_1.png" alt="Participating Countries Tab" width="60%">
+<img src="./ss/participatingcountry.png" alt="Participating Countries Tab" width="60%">
 
 #### ➔ Medal Efficiency Tab
 - **Medals Achieved by USA**: Breakdown of gold (39), silver (41), and bronze (33) medals.
 - **Medal Count Bar Chart**: Total medal counts by country.
-- **Popular Sports Bubble Chart**: Highlights popular disciplines such as Athletics, Football, and Judo.
 - **Gender vs Discipline Chart**: Analysis of male and female participation across sports.
 
 **Snapshot:**  
-<img src="./ss/Medals_1.png" alt="Medal Efficiency Tab" width="60%">
+<img src="./ss/medals.png" alt="Medal Efficiency Tab" width="60%">
 
 Each tab allows users to drill down into detailed insights, filter by country or sport, and dynamically interact with the data for deeper analysis.
 
