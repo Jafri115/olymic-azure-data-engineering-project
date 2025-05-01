@@ -73,14 +73,14 @@ The dashboard is structured into three main tabs, with snapshots provided for ea
 - Medal totals: 340 gold, 338 silver, and 402 bronze medals awarded.
 
 **Snapshot:**  
-<img src="./ss/Summary.png" alt="Summary Tab" width="60%">
+<img src="./ss/Summary_1.png" alt="Summary Tab" width="60%">
 
 #### ➔ Participating Countries Tab
 - **World Map**: Displays country-wise event participation, sized by event volume and color-coded by region.
 - **Top 10 Participants Treemap**: Highlights countries with the highest number of events (e.g., Japan, United States, Italy).
 
 **Snapshot:**  
-<img src="./ss/Participating%20Country.png" alt="Participating Countries Tab" width="60%">
+<img src="./ss/Participating_Country_1.png" alt="Participating Countries Tab" width="60%">
 
 #### ➔ Medal Efficiency Tab
 - **Medals Achieved by USA**: Breakdown of gold (39), silver (41), and bronze (33) medals.
@@ -89,7 +89,7 @@ The dashboard is structured into three main tabs, with snapshots provided for ea
 - **Gender vs Discipline Chart**: Analysis of male and female participation across sports.
 
 **Snapshot:**  
-<img src="./ss/Medals.png" alt="Medal Efficiency Tab" width="60%">
+<img src="./ss/Medals_1.png" alt="Medal Efficiency Tab" width="60%">
 
 Each tab allows users to drill down into detailed insights, filter by country or sport, and dynamically interact with the data for deeper analysis.
 
