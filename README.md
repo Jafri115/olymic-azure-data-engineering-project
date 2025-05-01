@@ -61,7 +61,7 @@ The project uses Tokyo 2021 Olympic data containing:
 ### 5. Visualization with Tableau
 
 The Olympic data insights are presented through an interactive Tableau dashboard:  
-[View Dashboard](https://public.tableau.com/app/profile/syed.jafri2681/viz/Book1_17458050470850/Summary?publish=yes)
+[View Dashboard](https://public.tableau.com/app/profile/syed.jafri2681/viz/tokyo_olympic_2020_dashboard_twb/Story1?publish=yes)
 The dashboard is structured into three main tabs, with snapshots provided for each:
 
 #### ➔ Summary Tab
